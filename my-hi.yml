@@ -1,1 +1,5 @@
 m: hihihi
+sso:
+  login:
+    web:
+      url: http://www.renxl.club
