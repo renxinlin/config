@@ -5,3 +5,6 @@ sso:
       url: http://www.renxl.club
       urlcontrol:
         zuul: 1
+images:
+  base:
+    url: http://www.renxl.club/ims/blog/
