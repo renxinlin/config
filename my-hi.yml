@@ -4,7 +4,7 @@ sso:
     web:
       url: http://www.renxl.club
       urlcontrol:
-        zuul: 1
+        zuul: 2
 images:
   base:
     url: http://www.renxl.club/ims/blog/
