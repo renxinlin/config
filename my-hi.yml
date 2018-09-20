@@ -3,3 +3,5 @@ sso:
   login:
     web:
       url: http://www.renxl.club
+      urlcontrol:
+        zuul: 1
