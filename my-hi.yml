@@ -8,3 +8,6 @@ sso:
 images:
   base:
     url: http://www.renxl.club/ims/blog/
+manager:
+  school:
+    redictUrl:http://127.0.0.1:8020/management_weibo/sys/login.html
