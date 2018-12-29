@@ -16,3 +16,6 @@ manager:
 queueName: publish.queue
 # active主题名称
 topicName: publish.topic
+
+test:
+  config: a
