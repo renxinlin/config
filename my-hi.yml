@@ -13,7 +13,7 @@ manager:
     redictUrl: http://127.0.0.1:8020/management_weibo/sys/login.html
     
 # active mq队列名称
-queueName: publish.queue
+queueName: publish.queue1
 # active主题名称
 topicName: publish.topic
 
